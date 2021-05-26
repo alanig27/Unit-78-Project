@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+    font-family: 'Arima Madurai', cursive;
+}
+
+p {
+    text-align: center;
+    font-family: 'Marvel', sans-serif;
+}
+
+body {
+    background-color: #ff3333;
+}
+
+.power {
+    margin: auto;
+    display: flex;
+    border: 3px solid green;
+    width: 300px;
+}
+
+.age {
+    margin: auto;
+    display: flex;
+    border: 3px solid green;
+    width: 300px;
+}
+
+button {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    width: 500px;
+}
+
+img {
+    display: none;
+    display: flex;
+    justify-content: center;
+}
